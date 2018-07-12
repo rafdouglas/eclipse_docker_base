@@ -2,4 +2,4 @@ Eclipse dockers for developers
 ===================
 Base Docker image for my other Eclipse Dockers
 
-Currently based on ubuntu 18.04 LTS
+Based on Ubuntu Xenial 16.04 LTS
